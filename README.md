@@ -1,3 +1,3 @@
 ## Contributors
 
-- Kauê Jacyntho - iOS Developer
+- Kauê Jacyntho iOS Developer
